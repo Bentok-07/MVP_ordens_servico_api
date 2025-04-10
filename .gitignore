@@ -1,0 +1,7 @@
+# Ignorar arquivos e pastas desnecessários
+__pycache__/
+*.pyc
+.env
+.venv/
+log/
+database/
