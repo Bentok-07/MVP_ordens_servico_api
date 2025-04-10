@@ -9,7 +9,7 @@ Ela utiliza SQLite como banco de dados, segue o padrão REST e possui documenta�
 
 ### 1. Clone este repositório:
 ```bash
-git clone https://github.com/Bentok-07/ordens_servico_api.git
+git clone https://github.com/Bentok-07/MVP_ordens_servico_api.git
 cd ordens_servico_api
 ```
 
